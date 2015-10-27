@@ -1,0 +1,16 @@
+{
+  "name": "fomcyclicals",
+  "version": "0.0.0",
+  "description": "Bless me father, for I have $",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Dayton <amdayton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.65.0",
+    "cheerio": "~0.19.0",
+    "mkdirp": "~0.5.1"
+  }
+}
