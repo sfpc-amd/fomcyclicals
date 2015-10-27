@@ -1,7 +1,7 @@
 FOMCyclicals
 =============
 
-Bless me father, for I have $$$.
+Bless me father, for I have $.
 
 The goal is to create a text geerator that merges Catholic Papal Encyclicals with Federal Open Markets Committee announcements. I would like there to be some kind of slider that allows people to select the ratio.
 
@@ -12,11 +12,11 @@ Todo
 
  - [x] Set up scraper
  - [ ] Prep corpus
- - [ ] Use nltk for basic text gen from each corpus
+ - [ ] Read files into corpos
+ - [ ] Use nltk for basic text gen from each corpus (use `generate`)
  - [ ] Try combining the corpi
-
-
-Implementation Notes
+ - [ ] Combine corpi into JSON file
+ - [ ] Create simple js client
 
 
 Installation
